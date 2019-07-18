@@ -1,2 +1,2 @@
 # grezarosales.github.io
-main website
+This is the repository for my online showroom
