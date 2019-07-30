@@ -29,13 +29,14 @@ a.smlink:hover{
 }
 .ptitle{
     letter-spacing: 1px;
+    font-size: 22px;
 }
 .smallheader{
     font-size: 12px;
     font-weight: bold;
 }
 .smalltext{
-    font-size: 11px;
+    font-size: 12px;
     font-weight: 300;
     letter-spacing: 0.5px;
     color: dimgrey;
